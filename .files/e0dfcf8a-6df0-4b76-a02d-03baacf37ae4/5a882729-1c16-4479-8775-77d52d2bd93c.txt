@@ -1,0 +1,19 @@
+• Has the regulated entity used the results of risk assessment and risk management processes to guide the selection and implementation of appropriate controls to 
+protect ePHI?  
+ NIST SP 800 -66r2   Implementing the HIPAA Security Rule  
+February 2024   A Cybersecurity Resource Guide  
+ 
+32 Key Activities  Description  Sample Questions  
+• Has the  regulated e ntity protected against all reasonably 
+anticipated threats or hazards to the security and integrity 
+of ePHI?  
+• Has the  regulated entity assured compliance with all 
+policies and procedures by its workforce?  
+4. Acquire Information Technology 
+(IT) Systems and Services35
+35 See Section 164.306(b) of the HIPAA Security Rule.   36
+36 See Key Activity 5.1.1.3, Implement a Risk Management Program . This activity and all associated bullets in the Description and Sample Questions are part of the process of addressing the risk 
+management implementation specification.   • Regulated entities should consider how cloud services and 
+other third -party IT system and service offerings can both 
+assist regulated entities in protecting ePHI while also 
+potentially introducing new risks to ePHI.

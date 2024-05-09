@@ -1,0 +1,20 @@
+• Relational harms  
+o Damage to trust relationships with other governments or with non-
+governmental entities  
+o Damage to national reputation (and , hence , future or potential trust 
+relationships)  
+• Damage to current or future ability to achieve national objectives  
+o Harm to national security  
+ 
+6. Determine the level of risk. The regulated entity assesses the level of risk to ePHI  while  
+considering the information gathered and determinations made during the previous 
+steps. The level of risk is determined by analyzing the values assigned to the overall 
+likelihood of threat occurrence (i.e., Step 4) and the resulting impact of threat 
+occurrence (i.e., Step 5). Table 6 and Table 7 show examples of risk -level matrices that  
+can assist in determining risk levels for each threat event/vulnerability pair. Regulated 
+entities can use a different risk matrix that aligns with the ratings scales used for likelihood and impact in Steps 4 and 5.  NIST SP 800 -66r2   Implementing the HIPAA Security Rule  
+February 2024   A Cybersecurity Resource Guide  
+ 
+22 Table 6. Sample risk-level matrix  
+Threat Likelihood Level of Impact  
+Low  Moderate  High

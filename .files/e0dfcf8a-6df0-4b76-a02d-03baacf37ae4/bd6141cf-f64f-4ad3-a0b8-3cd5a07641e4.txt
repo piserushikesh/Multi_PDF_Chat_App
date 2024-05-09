@@ -1,0 +1,22 @@
+and updates?  
+• Is the process implemented in such a way that it does not 
+compromise the authentication information (e.g., 
+password file encryption)?  
+ 
+  
+ NIST SP 800 -66r2   Implementing the HIPAA Security Rule  
+February 2024   A Cybersecurity Resource Guide  
+ 
+75 5.3.5.  Transmission Security (§ 164.312(e)(1))  
+HIPAA Standard:  Implement technical security measures to guard against unauthorized access to electronic protected health 
+information that is being transmitted over an electronic communications network . 
+Table 25. Key activities, descriptions, and sample questions for the  Transmission  Security standard 
+Key Activities  Description  Sample Questions  
+1. Identify Any Possible 
+Unauthorized Sources That May 
+Be Able to Intercept and/or 
+Modify the Information  • Identify all pathways by which ePHI will be transmitted 
+into, within, and outside of the organization.  
+• Identify scenarios (e.g., telehealth, claims processing) that may result in access to or modification of the ePHI by unauthorized sources during transmission (e.g., hackers, 
+disgruntled employees, business competitors).
+142

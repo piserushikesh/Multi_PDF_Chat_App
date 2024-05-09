@@ -1,0 +1,12 @@
+1. Security Standards: General Rules  — Includes the general requirements that all 
+regulated entities must meet, establishes flexibility of approach, identifies standards 
+and implementation specifications  (both required and addressable), outlines decisions 
+that a regulated entity must make regarding addressable implementation specifications, 
+and requires the maintenance of security measures to continue reasonable and appropriate protection of ePHI  
+2. Administ rative Safeguards  — Defined in the Security Rule as the “administrative actions 
+and policies, and procedures to manage the selection, development, implementation, and maintenance of security measures to protect electronic protected health information and to manage the conduct of the covered entity’s workforce in relation to 
+the protection of that information”  
+3. Physical Safeguards  — Defined as the “physical measures, policies, and procedures to 
+protect a covered entity’s electronic information systems and rel ated buildings and 
+equipment, from natural and environmental hazards, and unauthorized intrusion”  
+ NIST SP 800 -66r2   Implementing the HIPAA Security Rule

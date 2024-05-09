@@ -1,0 +1,12 @@
+identification.  
+4. Determine the likelihood that  a threat will e xploit a vulnerability. The regulated entity 
+determines the likelihood of a threat successfully exploiting a vulnerability. For each threat event/threat source identified in S tep 2, consider:  
+• The likelihood that the threat will occur  
+• The likelih ood that an occurred threat would exploit a vulnerability identified in 
+Step 3 and result in an adverse impact  
+A regulated entity might consider assigning a likelihood value (e.g., very low, low, moderate, high, or very high) to each threat/vulnerability pairing, as shown in Table 3. 
+Regulated entities should feel free to use a different likelihood scale based on organizational needs.  
+For example, a regulated entity may determine that the likelihood of a tornado occurrin g is “ Low ” (located along the leftmost column of Table 3) but that if it did occur, 
+the tornado would have a “ Moderate ” likelihood (located along the top of Table 3) of 
+exploiting a weakness in the facility’s physical structure and result ing in an adverse 
+impact. Using Table 3, the regulated entity locates the intersection of the two individual

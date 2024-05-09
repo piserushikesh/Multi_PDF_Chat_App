@@ -1,0 +1,24 @@
+• Is the current configuration of organizational systems documented, including connections to other systems?  
+• Has a BIA been performed?  
+2. Conduct Risk Assessment31
+31 See Sec. 3, Risk Assessment Guidance , and Appendix  F.   32
+32 The risks that must be assessed are the risks of noncompliance with the requirements of Section 164.306(a) (General Rules) of  the HIPAA Security Rule.    
+ Implementation Specification 
+(Required)  
+ 
+ • Conduct an accurate and thorough assessment of the 
+potential risks and vulnerabilities to the confidentiality, 
+integrity, and availability of ePHI held by the covered 
+entity or business associate.  • Are there any prior risk assessments, audit comments, 
+security requirements, and/or security test results?  
+• Is there intelligence available from agencies, the Office of the Inspector General (OIG), the United States Com puter 
+Emergency Readiness Team ( US-CERT ), virus alerts, and/or 
+vendors?  
+ NIST SP 800 -66r2   Implementing the HIPAA Security Rule  
+February 2024   A Cybersecurity Resource Guide  
+ 
+31 Key Activities  Description  Sample Questions  
+ 
+ 
+ 
+ • What are the human, natural, and environmental threats

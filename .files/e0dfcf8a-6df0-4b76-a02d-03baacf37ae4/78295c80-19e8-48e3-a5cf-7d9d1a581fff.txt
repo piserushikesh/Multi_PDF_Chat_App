@@ -1,0 +1,12 @@
+recognizes this  and states,  “This will involve establishing a balance between the information’s identifiable risks and vulnerabilities, and the cost 
+of various protective measures, and will also be dependent upon the size, complexity, and capabilities of the covered entity,  as provided in § 
+164.306(b ).”  
+• Providing guidance on best practices for developing and implementing a risk 
+management program, and  
+• Creating appropriate documentation that demonstrates effective compliance with the 
+HIPAA Security Rule .9
+9 Public Law 116 –321, signed into law on January 5, 2020, offers regulated entities potential mitigations of penalties and early terminations of 
+audits if a regulated entity can demonstrate that it has had recognized security practices in place for the previous 12 month s. Both the Health 
+Industry Cybersecurity Practices (HICP) promulgated under §405(d) and the NIST Cybersecurity Framework constitute “recognized  security 
+practices” under the statute and can help organizations meet Congressional intent by implementing the guidance contained in this NIST Special 
+Publication.

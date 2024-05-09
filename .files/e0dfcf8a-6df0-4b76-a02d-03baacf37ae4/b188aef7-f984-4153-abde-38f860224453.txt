@@ -1,0 +1,12 @@
+probable human and natural incidents that can negatively impact the regulated entity’s ability to protect ePHI. Use the information gathered from Step 1 (i.e., the preparation 
+step) to identify reasonabl y anticipated threats to ePHI. Be sure to consider threats to 
+the confidentiality, integrity, and availability of ePHI via phishing, ransomware, or insider threat.   
+Regulated entities may use various sources
+21
+21 Regulated entities may benefit from [ IR 8286A ], specifically Section 2.2.2, when identifying threats to ePHI.   when identifying relevant threats. Some of 
+the resources listed in Appendix F  may help regulated entities iden tify common threats 
+to small, medium, and large organizations. Internet searches, vendor information, insurance data, and crime statistics are also  viable sources of threat data.  Regulated 
+entities may benefit from participating in an information sharing and analysis center (ISAC) or information sharing and analysis organization (ISAO
+22
+22 See also the OCR Quarter 1 2022 Cybersecurity Newsletter . ) to receive threat 
+intelligence. Ultimately, regulated entities should identify all reasonably anticipated

@@ -1,0 +1,20 @@
+Unauthorized Sources That May 
+Be Able to Intercept the Information and Modify It  • Identify scenarios that may result in modification to the 
+ePHI by unauthorized sources (e.g., hackers, ransomware, 
+insider threats, business competitors, user errors).132
+132 See Sec. 5.1.1, HIPAA Standard: Security Management Process.   
+• Conduct this activity as part of a risk analysis.133
+133 See Sec. 5.1.1, HIPAA Standard: Security Management Process.   
+• Consider how the organization will detect u nauthorized 
+modification to ePHI . • What are likely sources that could jeopardize information 
+integrity?134
+134 See Sec. 5.1.1, HIPAA Standard: Security Management Process.   
+• What can be done to protect the integrity of the information when it is residing in a system (at rest)?  
+• What procedures and policies can be established to 
+decrease or prevent  alteration of the information during 
+transmission?
+135
+135 See Sec. 5.1.1, HIPAA Standard: Security Management Process , and Sec. 5.3.5, HIPAA Standard: Transmission Security .  
+• What options exist to detect the unauthorized 
+modification of ePHI?  
+3. Develop the Integrity Policy and
